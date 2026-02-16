@@ -96,9 +96,7 @@ Classification Report
 
 The trained tree is visualized using plot_tree() from scikit-learn.
 
-📊 Model Performance Metrics
-
-The model prints:
+✅ The model prints:
 
 Accuracy Score
 Confusion Matrix
